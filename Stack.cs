@@ -40,9 +40,9 @@ namespace Stack
             }
         }
 
-        // void Clear()
-        // {
-
-        // }
+        public void Clear()
+        {
+            _list.Clear();
+        }
     }
 }

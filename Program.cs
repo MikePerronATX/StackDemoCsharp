@@ -18,7 +18,9 @@ namespace Stack
 
             stack.Pop();
             stack.Display();
-            // 
+            
+            stack.Clear();
+            stack.Display();
         }
     }
 }
